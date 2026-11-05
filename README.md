@@ -1,9 +1,15 @@
-# DSI Training — Hands-on Companion (serverless)
+# cataScience has moved
 
-Shinylive (WebAssembly) build of the WHO WPRO DSI teaching Shiny app.
-R runs entirely in your browser — nothing is sent to a server.
+The online app now uses a shorter address:
 
-**Open the app:** https://shanlong-who.github.io/dsi-teaching-app/
+- [Workshop app](https://shanlong-who.github.io/cata/)
+- [Classic app](https://shanlong-who.github.io/cata/classic/)
+- [Documentation](https://shanlong-who.github.io/cataScience/)
 
-First load takes ~30-60 seconds while the browser fetches the R runtime.
-Source and build script: maintained in the author's training-modules project.
+Both online editions use cataScience 2.2.0. This repository preserves the
+previous deployment and redirects its homepage so existing training links
+continue to work. New browser builds are published to
+[shanlong-who/cata](https://github.com/shanlong-who/cata).
+
+The maintained R package source is at
+[shanlong-who/cataScience](https://github.com/shanlong-who/cataScience).
